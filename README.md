@@ -4,3 +4,11 @@
 Day 1 - Video
 
 https://www.youtube.com/watch?v=Xrgk023l4lI
+
+Git - Course
+
+https://devopsonlinehub.teachable.com/courses/1241681/lectures/27673836
+
+Creds:
+Username: rajeshreddygurujala@gmail.com
+Password: Smart@2122
