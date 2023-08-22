@@ -12,3 +12,13 @@ https://devopsonlinehub.teachable.com/courses/1241681/lectures/27673836
 Creds:
 Username: rajeshreddygurujala@gmail.com
 Password: Smart@2122
+
+
+Task 1:
+Please complete above Git Course:
+https://devopsonlinehub.teachable.com/courses/1241681/lectures/27673836
+Creds:
+Username: rajeshreddygurujala@gmail.com
+Password: Smart@2122
+And
+https://github.com/adobatchadmin/course-docs/blob/main/Day1/Task1.md
